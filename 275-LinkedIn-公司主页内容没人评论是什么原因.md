@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn公司主页触达低、互动少", "LinkedIn账号�
 
 # LinkedIn公司主页内容没人评论是什么原因？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**先检查主页资料完整度、受众匹配和内容相关性，再用 Page analytics 看访客与关注者特征；单纯增加发帖频率未必解决触达。
 
 ## 先检查什么

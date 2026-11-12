@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn公司主页触达低、互动少", "LinkedIn账号�
 
 # LinkedIn主页如何把访客变成关注者？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**把主页关注和互动与目标访客、有效询盘及销售反馈一起评估；关注量本身不是业务结果。
 
 ## 先检查什么

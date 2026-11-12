@@ -9,6 +9,11 @@ related_keywords: ["LinkedInBusiness Manager 与资产访问", "LinkedIn账号�
 
 # LinkedIn Page如何添加到正确的Business Manager？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**通过 Business Manager 的成员/资产邀请与访问请求管理企业资产；先确认 Page 或广告账户归属，再让组织管理员批准权限。
 
 ## 先检查什么

@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn账号被限制、封禁与申诉", "LinkedIn账号�
 
 # LinkedIn账号申诉需要提交什么资料？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**通过 LinkedIn 登录提示查看具体限制原因，按要求验证本人身份或提交申诉。是否解除由 LinkedIn 审核，第三方不能保证解封。
 
 ## 先检查什么

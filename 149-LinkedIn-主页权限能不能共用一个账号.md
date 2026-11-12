@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn主页角色与多人协作权限", "LinkedIn账号�
 
 # LinkedIn主页权限能不能共用一个账号？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**不要共用个人账号。按发布、分析、广告和超级管理职责分配各自的 Page 角色。
 
 ## 先检查什么

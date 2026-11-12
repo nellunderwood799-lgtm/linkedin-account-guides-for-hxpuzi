@@ -9,6 +9,11 @@ related_keywords: ["LinkedInCompany Page 创建、认领与验证", "LinkedIn账
 
 # 如何认领LinkedIn现有公司主页？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**优先申请现有 Page 的管理员权限或按官方流程认领，避免创建重复页面。
 
 ## 先检查什么

@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn账号被盗与安全防护", "LinkedIn账号与企�
 
 # LinkedIn账号被盗后广告或主页资产怎么办？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**立即向 LinkedIn 报告未授权访问，并先保护绑定邮箱；恢复后修改密码、结束陌生会话、检查资产权限并开启双重验证。
 
 ## 先检查什么

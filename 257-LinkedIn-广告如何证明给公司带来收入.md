@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn广告归因与ROI说不清", "LinkedIn账号与企�
 
 # LinkedIn广告如何证明给公司带来收入？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**先用一条测试路径验证标签或转化事件，再将平台指标和 CRM 后续商机口径对照。
 
 ## 先检查什么

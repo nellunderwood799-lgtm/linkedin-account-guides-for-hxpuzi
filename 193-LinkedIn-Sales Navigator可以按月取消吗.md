@@ -9,6 +9,11 @@ related_keywords: ["LinkedInSales Navigator 方案、席位与费用评估", "Li
 
 # LinkedIn：Sales Navigator可以按月取消吗？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**先明确使用人数和销售流程，再核对当前方案实际包含的搜索、协同与 CRM 功能。
 
 ## 先检查什么

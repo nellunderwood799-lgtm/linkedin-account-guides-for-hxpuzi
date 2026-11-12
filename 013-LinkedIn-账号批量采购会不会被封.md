@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn个人账号购买与转让风险", "LinkedIn账号�
 
 # LinkedIn账号批量采购会不会被封？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**不建议购买、租用或转让 LinkedIn 个人账号。LinkedIn 要求个人资料对应真实本人，并禁止共享或转让账号；历史、联系人或卖家承诺都不能改变这一点。
 
 ## 先检查什么

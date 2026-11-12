@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn公司主页管理员丢失与权限申请", "Linked
 
 # LinkedIn公司主页无法联系旧管理员怎么办？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**Page 没有独立密码。用本人真实资料向现有超级管理员申请角色；若无人可联系，按 LinkedIn 官方流程申请管理员访问或联系支持。
 
 ## 先检查什么

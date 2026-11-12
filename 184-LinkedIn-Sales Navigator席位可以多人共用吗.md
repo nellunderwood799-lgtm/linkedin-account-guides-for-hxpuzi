@@ -9,6 +9,11 @@ related_keywords: ["LinkedInSales Navigator 方案、席位与费用评估", "Li
 
 # LinkedIn：Sales Navigator席位可以多人共用吗？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**席位应分配给各自的真实成员，不共享登录凭证；离职后由管理员按当前订阅规则回收或重新分配席位。
 
 ## 先检查什么

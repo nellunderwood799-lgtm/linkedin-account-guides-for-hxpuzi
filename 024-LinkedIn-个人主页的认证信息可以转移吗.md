@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn老号、认证与联系人价值疑问", "LinkedIn�
 
 # LinkedIn个人主页的认证信息可以转移吗？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**认证只说明某项身份/工作信息经过相应核验，不等于账号永不受限，也不意味着认证可以转给另一位使用者。
 
 ## 先检查什么

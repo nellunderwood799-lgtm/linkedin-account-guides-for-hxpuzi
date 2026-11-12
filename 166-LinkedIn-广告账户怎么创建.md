@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn广告账户访问、账单与主体", "LinkedIn账�
 
 # LinkedIn广告账户怎么创建？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**Campaign Manager 的访问由广告账户角色控制。先确认账户编号、组织、付款主体和当前成员权限，再申请相应角色。
 
 ## 先检查什么

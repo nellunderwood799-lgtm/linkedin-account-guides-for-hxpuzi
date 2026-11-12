@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn广告账户访问、账单与主体", "LinkedIn账�
 
 # LinkedIn广告账户余额或扣费异常怎么办？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**费用和账单以 Campaign Manager 当前账户、发票与付款记录为准；不要根据第三方所谓“带余额账户”报价做判断。
 
 ## 先检查什么

@@ -9,6 +9,11 @@ related_keywords: ["LinkedInLead Gen Forms权限与线索交接", "LinkedIn账�
 
 # LinkedIn Lead Gen Form提交后谁负责跟进？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**先确认表单所属 Page、广告账户以及 Lead Gen Forms Manager 权限；随后用测试提交核对下载或 CRM 字段映射。
 
 ## 先检查什么

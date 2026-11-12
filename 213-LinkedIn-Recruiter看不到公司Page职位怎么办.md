@@ -9,6 +9,11 @@ related_keywords: ["LinkedInRecruiter 招聘许可与访问", "LinkedIn账号与
 
 # LinkedIn：Recruiter看不到公司Page职位怎么办？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**Recruiter 方案、席位与权限按团队招聘需求和合同核对；成员各自使用真实资料，由组织管理员分配席位。
 
 ## 先检查什么

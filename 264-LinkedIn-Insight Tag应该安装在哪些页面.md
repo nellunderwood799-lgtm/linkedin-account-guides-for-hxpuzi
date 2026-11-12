@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn广告归因与ROI说不清", "LinkedIn账号与企�
 
 # LinkedIn Insight Tag应该安装在哪些页面？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**按 LinkedIn 官方规则核对标签状态和安装位置；含敏感个人健康或财务数据的页面不得安装 Insight Tag。
 
 ## 先检查什么

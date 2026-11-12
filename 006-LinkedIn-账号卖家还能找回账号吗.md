@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn个人账号购买与转让风险", "LinkedIn账号�
 
 # LinkedIn账号卖家还能找回账号吗？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**LinkedIn 个人账号归真实会员本人使用。企业团队应使用 Page 管理员、广告账户角色或官方产品席位协作，而不是互相交接个人登录。
 
 ## 先检查什么

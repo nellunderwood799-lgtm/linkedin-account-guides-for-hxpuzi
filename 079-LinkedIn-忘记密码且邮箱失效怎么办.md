@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn邮箱、手机号与验证码找回", "LinkedIn账�
 
 # LinkedIn忘记密码且邮箱失效怎么办？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**先使用仍可访问的备用邮箱或手机号；若均不可用，走 LinkedIn 的无法访问邮箱/身份验证恢复流程。
 
 ## 先检查什么

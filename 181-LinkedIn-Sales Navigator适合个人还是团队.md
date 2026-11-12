@@ -9,6 +9,11 @@ related_keywords: ["LinkedInSales Navigator 方案、席位与费用评估", "Li
 
 # LinkedIn：Sales Navigator适合个人还是团队？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**按单人搜索、团队协作、CRM 同步和报表需求对照当前 Core、Advanced、Advanced Plus 功能，再决定方案。
 
 ## 先检查什么

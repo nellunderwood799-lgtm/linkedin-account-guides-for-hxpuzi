@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn主页角色与多人协作权限", "LinkedIn账号�
 
 # LinkedIn员工可以代表公司主页发帖吗？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**先按工作任务选择最低必要角色，再由 Page 超级管理员邀请成员；项目结束或离职时及时撤权。
 
 ## 先检查什么

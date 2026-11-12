@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn广告线索质量低、CPL过高", "LinkedIn账号�
 
 # LinkedIn广告频次太高效果下降怎么办？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**先用 CRM 抽样判断线索是否符合目标企业和岗位，再分别排查定向、创意承诺、表单摩擦与销售跟进；不要只优化 CPL。
 
 ## 先检查什么

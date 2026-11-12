@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn账号注册与首次登录故障", "LinkedIn账号�
 
 # LinkedIn首次登录要求身份验证怎么办？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**注册和首次登录应使用本人真实资料及可长期访问的联系方式。出现验证或限制提示时，按页面给出的官方流程处理。
 
 ## 先检查什么

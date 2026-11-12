@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn账号注册与首次登录故障", "LinkedIn账号�
 
 # 一个人可以注册几个LinkedIn账号？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**LinkedIn 用户协议要求每位会员使用一个以真实姓名注册的个人账号。
 
 ## 先检查什么

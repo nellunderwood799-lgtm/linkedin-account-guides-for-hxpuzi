@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn身份验证与资料核验", "LinkedIn账号与企�
 
 # LinkedIn身份验证失败可以再次提交吗？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**使用 LinkedIn 登录流程启动身份验证，并确认账号姓名和本人证件一致。材料选项与替代方式以当前官方页面和所在地为准。
 
 ## 先检查什么

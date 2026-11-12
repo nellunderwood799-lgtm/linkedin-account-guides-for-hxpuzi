@@ -1,5 +1,10 @@
 # LinkedIn 用户问题与行业内容库
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 本项目按用户搜索意图重写，共 300 篇文章，20 个问题簇，每簇 15 篇。所有文章、README 和目录表都在仓库根目录。文章从真实问题出发，先给结论，再列排查项、处理步骤和边界；不使用“入门/策略/清单”套题替代用户问题。
 
 ## 选题依据与边界

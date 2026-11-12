@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn邮箱、手机号与验证码找回", "LinkedIn账�
 
 # LinkedIn收不到双重验证代码怎么办？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**只能由账号本人通过 LinkedIn 官方恢复流程更换邮箱、手机号或重设密码。不要把验证码交给代找回的人。
 
 ## 先检查什么

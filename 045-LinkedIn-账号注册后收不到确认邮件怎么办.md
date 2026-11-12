@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn账号注册与首次登录故障", "LinkedIn账号�
 
 # LinkedIn账号注册后收不到确认邮件怎么办？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**先核对注册邮箱/手机号、国家区号和垃圾邮件或短信拦截，再从登录页面重新发送验证信息。
 
 ## 先检查什么

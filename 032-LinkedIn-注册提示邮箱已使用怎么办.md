@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn账号注册与首次登录故障", "LinkedIn账号�
 
 # LinkedIn注册提示邮箱已使用怎么办？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**邮箱提示已使用时，先尝试用该邮箱登录或找回原账号；不要为同一人反复创建重复个人账号。
 
 ## 先检查什么

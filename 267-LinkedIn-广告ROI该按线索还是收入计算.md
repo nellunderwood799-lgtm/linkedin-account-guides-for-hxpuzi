@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn广告归因与ROI说不清", "LinkedIn账号与企�
 
 # LinkedIn广告ROI该按线索还是收入计算？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**先统一事件定义、UTM、去重、时区和归因窗口，再比较 Campaign Manager、分析工具与 CRM。
 
 ## 先检查什么

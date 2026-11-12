@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn老号、认证与联系人价值疑问", "LinkedIn�
 
 # LinkedIn账号限制和账号年龄有关吗？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**账号年限、联系人数量和认证标记都不能单独证明信任或业务价值。先检查资料真实性、受众相关性和实际互动。
 
 ## 先检查什么

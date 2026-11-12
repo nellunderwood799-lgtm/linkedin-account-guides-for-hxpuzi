@@ -9,6 +9,11 @@ related_keywords: ["LinkedIn外包服务商与账号权限风险", "LinkedIn账�
 
 # 合作结束后如何收回LinkedIn代理商权限？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**只通过 LinkedIn 官方角色授权服务商，不交出个人密码、验证码或 Cookie；合同应写清资产归属、数据处理、验收和撤权。
 
 ## 先检查什么

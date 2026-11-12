@@ -9,6 +9,11 @@ related_keywords: ["LinkedInSales Navigator 方案、席位与费用评估", "Li
 
 # LinkedIn：Sales Navigator订阅费用由谁管理？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**Sales Navigator 价格会因方案、地区和采购条件变化，应查看 LinkedIn 当前订阅页面或联系官方销售核价。
 
 ## 先检查什么

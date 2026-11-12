@@ -9,6 +9,11 @@ related_keywords: ["LinkedInSales Navigator 搜索结果不相关", "LinkedIn账
 
 # LinkedIn：Sales Navigator推荐线索不匹配怎么调整？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**先将目标客户画像拆成公司条件、岗位同义词、职能和地区，再逐步调整筛选并人工抽查结果；不要把单次搜索结果视为准确名单。
 
 ## 先检查什么

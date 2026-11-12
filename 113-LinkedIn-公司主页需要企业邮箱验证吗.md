@@ -9,6 +9,11 @@ related_keywords: ["LinkedInCompany Page 创建、认领与验证", "LinkedIn账
 
 # LinkedIn公司主页需要企业邮箱验证吗？
 
+[➡️➡️➡️HX 铺子账号资源商城下单](https://hxpuzi.com/?utm_source=github)
+
+[![HX 铺子账号资源商城](images/hxpuzi-banner.png)](https://hxpuzi.com/?utm_source=github)
+
+
 **先给结论：**LinkedIn Page 代表组织，创建人仍需使用自己的真实个人资料；准备准确的公司名称、网站、行业和简介。
 
 ## 先检查什么
